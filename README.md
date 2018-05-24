@@ -39,7 +39,7 @@ Accept: application/xml
 
 那我们怎么实现状态转移呢？ HTTP方法。
 
-我们通过GET方法从数据库的二维表转换到了json，也可以通过put把一个资源从json转换回数据库的二维表。同理，我们使用GET，PUT，DELETE，POST不同的方法来实现不同状态间的转移。
+我们通过GET方法从数据库的二维表转换到了json，也可以通过PUT方法把一个资源从json转换回数据库的二维表。同理，我们使用GET，PUT，DELETE，POST不同的方法来实现不同状态间的转移。
 
 # 综上所述
 
