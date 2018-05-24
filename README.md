@@ -1,6 +1,6 @@
 # 说说我认为的RESTful
 
-我们总是谈前后端分离，谈json交互，但谈来谈去，总绕不开一个词，RESTful。那么,什么是RESTful? 
+我们经常谈前后端分离，谈json交互，但谈来谈去，总绕不开一个词，RESTful。那么,什么是RESTful? 
 
 ## REST(Representational State Transfer)
 
